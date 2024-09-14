@@ -78,6 +78,7 @@ navbar{
     font-size: 2rem;
     font-weight: 600;
     color: var(--secondary-color);
+    text-align: center;
 }
 
 .tarjetas-ejercicios{
