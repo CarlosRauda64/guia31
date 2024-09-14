@@ -1,0 +1,36 @@
+{
+	"fichero": {
+		"ficha": [
+			{
+				"nombre": "Antonio",
+				"apellido": "Barbero",
+				"direccion": "San Salvador",
+				"_id": "1",
+				"_fechaingreso": "1/11/2012"
+			},
+			{
+				"nombre": "Carlos",
+				"apellido": "Rauda",
+				"direccion": "San Salvador",
+				"telefono": "7777-2264",
+				"email": "rauda.carlos@gmail.com",
+				"url": "https://carlosrauda64.github.io/guia21c/",
+				"_id": "2",
+				"_fechaingreso": "14/09/2024"
+			},
+			{
+				"nombre": "Pepe",
+				"apellido": "Juarez",
+				"direccion": "Ahuachapan",
+				"telefono": "9423-5646",
+				"email": "pepeg2131@gmail.com",
+				"url": "https://carlosrauda64.github.io/guia21c/",
+				"dui": "0649865-3",
+				"isss": "1316-8465-465-1321",
+				"afp": "ASD46-1ASD5-ASD16",
+				"_id": "3",
+				"_fechaingreso": "15/09/2024"
+			}
+		]
+	}
+}

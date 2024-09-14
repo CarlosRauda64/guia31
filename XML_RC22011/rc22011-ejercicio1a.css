@@ -1,0 +1,42 @@
+/* rc22011-ejercicio1a.css   RC22011  */
+fichero {
+    background-color: blue;
+}
+
+ficha {
+    background-color: red;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
+    font-size: 2rem;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 12px;
+    font-weight: bold;
+}
+
+nombre {
+    color: white;
+    display: inline;
+}
+
+apellido {
+    color: yellow;
+    display: inline;
+}
+
+direccion {
+    color: yellow;
+}
+
+telefono {
+    color: yellow;
+}
+
+email {
+    color: yellow;
+}
+
+url{
+    color: yellow;
+}

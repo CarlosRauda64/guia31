@@ -1,0 +1,30 @@
+{
+	"pais": {
+		"departamento": {
+			"cabecera": "San Salvador",
+			"habitantes": "1,700,000",
+			"altura": "545 MSNM",
+			"_id": "1",
+			"_nombre": "San Salvador"
+		},
+		"idiomas": {
+			"idioma": [
+				{
+					"_tipo": "oficial",
+					"__text": "Español"
+				},
+				{
+					"_tipo": "autóctono",
+					"__text": "Náhuat"
+				},
+				{
+					"_tipo": "secundario",
+					"__text": "Ninguno"
+				}
+			]
+		},
+		"_nombre": "El Salvador",
+		"_moneda": "Dolar Estadounidense",
+		"_codigo": "503"
+	}
+}

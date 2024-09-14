@@ -1,0 +1,41 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador",
+				"_codigo_area": "2"
+			},
+			{
+				"cabecera": "Santa Tecla",
+				"habitantes": "747,662",
+				"altura": "450 MSNM",
+				"_id": "2",
+				"_nombre": "La Libertad",
+				"_codigo_area": "3"
+			}
+		],
+		"idiomas": {
+			"idioma": [
+				{
+					"_tipo": "oficial",
+					"__text": "Español"
+				},
+				{
+					"_tipo": "autóctono",
+					"__text": "Náhuat"
+				},
+				{
+					"_tipo": "secundario",
+					"__text": "Ninguno"
+				}
+			]
+		},
+		"_nombre": "El Salvador",
+		"_moneda": "Dolar Estadounidense",
+		"_codigo": "503"
+	}
+}

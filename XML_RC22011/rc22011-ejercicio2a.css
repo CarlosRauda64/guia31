@@ -1,0 +1,52 @@
+/* rc22011-ejercicio2a.css   RC22011  */
+pais {
+    background-color: blue;
+}
+
+departamento {
+    background-color: red;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
+    font-size: 2rem;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 12px;
+    font-weight: bold;
+}
+
+pais[nombre]::before {
+    content: attr(nombre);
+    color: yellow;
+    font-weight: bold;
+    text-align: center;
+    border: 4px solid black;
+}
+
+cabecera {
+    color: yellow;
+}
+
+habitantes {
+    color: lightgreen;
+}
+
+altura {
+    color: white;
+}
+
+idiomas {
+    background-color: red;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
+    font-size: 2rem;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 12px;
+    font-weight: bold;
+}
+
+idioma {
+    color: lightgreen;
+}
