@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scrollbar-width: 1rem;
+    scrollbar-color: var(--secondary-color) var(--background-color);
 }
 
 :root{
@@ -138,3 +140,4 @@ footer{
     height: 50px;
     object-fit: cover;
 }
+
